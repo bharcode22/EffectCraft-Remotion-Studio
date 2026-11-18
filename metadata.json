@@ -1,0 +1,6 @@
+{
+  "name": "EffectCraft Remotion Studio",
+  "description": "Interactive bidirectional studio prototype bridging EffectCraft .ecproj compositions with the Remotion render engine and live @remotion/player preview.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
